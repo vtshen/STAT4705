@@ -45,10 +45,6 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 - 12/16 Sat 
 	- Final 7:45 AM to 9:45 AM
 
-## Chapters
-
-
-
 ### HW
 
 - HW3
@@ -75,18 +71,20 @@ TBD, maybe by appointment through sumin at vt dot edu
 
 - Bonus HW7
 - Quiz
-  - either +0.5 or +0 in the final grade
+  - each quiz gives you either +0.5 or +0 in the scale of the final grade
   - possible format: 4 choose 2
-- Reading assignment on textbook
+- Reading assignment 
+  - on textbook
+  - format? Any suggestion?
 
 ### Topics
 
-- discrete distribution
-- continuous distribution
-- comparison between the discrete and continuous distribution
+- Discrete distribution
+- Continuous distribution
+- Comparison between the discrete and continuous distribution
 - Random Sampling
 
-if time:
+If time:
 
 - simulation on sampling and distribution
 - one- and two-sample estimation problems
@@ -102,6 +100,7 @@ if time:
 ### Miscellaneous links
 
 
-- Chapter 3 in the book [All of Statistics](http://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf) 
-
+- Chapter 3 in the book [All of Statistics](http://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf)
+ 
+- Introduction to nromal distribution (in Chinese) http://emma.memect.com/t/05400bfdb821bac2abba403afc4ad2e9d2e7d8ea845aa7227f2433ffbe7a9684/intro-normal-distribution.pdf
 

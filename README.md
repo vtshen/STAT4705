@@ -1,6 +1,6 @@
 # STAT4705
 
-The syllabus is the same in the canvas. The course materials can be found in the canvas, some additional materials (if any) can be found through this GitHub page.
+The syllabus is the same as that in the canvas. The course materials can be found in the canvas, some additional materials (if any) can be found through this GitHub page.
 
 ## Schedule
 This is a copy of the schedule in the syllabus in the canvas.
@@ -8,10 +8,13 @@ This is a copy of the schedule in the syllabus in the canvas.
 MWF 8:00 AM - 8:50 AM in SEITZ 300
 
 - 10/23 Monday 
+	- Chapter 6 introduction
 - 10/25 Wednesday 
 	- Quiz1 
 	- post HW4, due 11/6
+	- 
 - 10/27 Friday
+	- 
 - 10/30 Mon
 - 11/1 Wed 
 	- Quiz2
@@ -69,9 +72,10 @@ TBD, maybe by appointment through sumin at vt dot edu
 
 ### Possible Bonus
 
-- Bonus HW7
+- possible bonus HW7
 - Quiz
   - each quiz gives you either +0.5 or +0 in the scale of the final grade
+  - 5 quizzes in total
   - possible format: 4 choose 2
 - Reading assignment 
   - on textbook
@@ -99,8 +103,7 @@ If time:
 
 ### Miscellaneous links
 
-
+- Lecture notes in the class by Prof Maitra at ISU http://www.public.iastate.edu/~maitra/stat330/hofmannotes.pdf
 - Chapter 3 in the book [All of Statistics](http://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf)
  
-- Introduction to nromal distribution (in Chinese) http://emma.memect.com/t/05400bfdb821bac2abba403afc4ad2e9d2e7d8ea845aa7227f2433ffbe7a9684/intro-normal-distribution.pdf
 

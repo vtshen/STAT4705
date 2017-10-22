@@ -14,7 +14,7 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 	- post HW4, due 11/6
 	- 
 - 10/27 Friday
-	- 
+	
 - 10/30 Mon
 - 11/1 Wed 
 	- Quiz2

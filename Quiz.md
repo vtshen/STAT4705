@@ -1,6 +1,6 @@
 # Bonus quizzes
 
-## Quiz 1
+## Quiz 1 on Oct 25
 
 In you vt gmail account, go to the shared google sheet, 
 
@@ -11,7 +11,9 @@ find your name, answer the question in the header of the 2nd column, and type ye
 ## Quiz 2
 
 - Q1
+  - What is the mean and variance of the continuous uniform distribution shown in the slide?
 - Q2
+  - What is the density function of the normal distribution?
 - Q3
 - Q4
 

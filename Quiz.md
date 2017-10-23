@@ -13,7 +13,7 @@ find your name, answer the question in the header of the 2nd column, and type ye
 - Q1
   - What is the mean and variance of the continuous uniform distribution shown in the slide?
 - Q2
-  - What is the density function of the normal distribution?
+  - What is the density function of the 1-dim normal distribution of the variable x with mean $\mu$ and variance $\sigma^2$? What is the support of x?
 - Q3
 - Q4
 

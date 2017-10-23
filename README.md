@@ -12,9 +12,11 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 - 10/25 Wednesday 
 	- Quiz1 
 	- post HW4, due 11/6
-	- 
+	- The example on the uniform distribution
+  - Continue the normal distribution
 - 10/27 Friday
-	
+	- complete the poisson distribution and the other discrete distribution
+	- some examples
 - 10/30 Mon
 - 11/1 Wed 
 	- Quiz2

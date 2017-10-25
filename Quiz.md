@@ -9,19 +9,21 @@ find your name, answer the question in the header of the 2nd column, and type ye
 
 ## Quiz 2 on Nov 1
 
-### Part1 
+### Part 1 
 In you vt gmail account, go to the shared google sheet, find your name, answer the question in the header of the 2nd column, and type ____ in the column next to the name. Please just type the answer for yourself.
 
 https://docs.google.com/a/vt.edu/spreadsheets/d/1q8qwuLl3qKVpTkzYWP9Va-tbUPzCqSQ5gB6rH3NcIHA/edit?usp=sharing
 
-### Part 2
+### Part 2 
+
+(4 choose 2, if you answered more than 2 questions, you will be given the full credit as long as there are 2 questions answered corretly.)
 
 - Q1
   - What is the mean and variance of the continuous uniform distribution shown in the slide?
 - Q2
   - What is the density function of the 1-dim normal distribution N($\mu$, $\sigma^2$)? What is the support of x?
 - Q3
-  - Derive the transformation, z = (x - mu)/sigma, where x ~ N(mu, sigma^2)
+  - Derive the expectation and variance of the distribution of the transformation, z = (x - mu)/sigma, where x ~ N(mu, sigma^2)
 - Q4
 
 ## Quiz 3

@@ -19,7 +19,7 @@ https://docs.google.com/a/vt.edu/spreadsheets/d/1q8qwuLl3qKVpTkzYWP9Va-tbUPzCqSQ
 (4 choose 2, if you answered more than 2 questions, you will be given the full credit as long as there are 2 questions answered corretly.)
 
 - Q1
-  - What is the mean and variance of the continuous uniform distribution shown in the slide?
+  - Derive the mean and variance of the continuous uniform distribution shown in the slide?
 - Q2
   - What is the density function of the 1-dim normal distribution N($\mu$, $\sigma^2$)? What is the support of x?
 - Q3

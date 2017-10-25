@@ -15,7 +15,7 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 	- The example on the uniform distribution
   - Continue the normal distribution
   - students who answered questions:
-    - Lorenzo, Raras
+    - Lorenzo Raras
     - Alex Johnson
     - missed 1
     - missed 2

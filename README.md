@@ -20,6 +20,7 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
     - missed 1
     - missed 2
 - 10/27 Friday
+  - continue the expectation and variance discussion of the transformation z
   - finish the normal 
 	- complete the poisson distribution and the other discrete distribution
 	- some examples

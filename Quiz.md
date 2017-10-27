@@ -16,7 +16,7 @@ https://docs.google.com/a/vt.edu/spreadsheets/d/1q8qwuLl3qKVpTkzYWP9Va-tbUPzCqSQ
 
 ### Part 2 
 
-(4 choose 2, if you answered more than 2 questions, you will be given the full credit as long as there are 2 questions answered corretly.)
+(4 choose 2)
 
 - Q1
   - Derive the mean and variance of the continuous uniform distribution shown in the slide?

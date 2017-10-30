@@ -21,12 +21,18 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
     - missed 2
 - 10/27 Friday
   - continue the expectation and variance discussion of the transformation z
-  - finish the normal 
-	- complete the poisson distribution and the other discrete distribution
-	- some examples
+  - start the CLT
+  - students who answered questions:
+	- Matthew Blumen
+	- Matt *
 - 10/30 Mon
+	- finish the CLT
+	- start the poisson distribution and the other discrete distribution
+	- some examples
 - 11/1 Wed 
 	- Quiz2
+	- Finish the poisson
+	- Start the distributions t, chi-squared, and F
 - 11/3 Fri
 - 11/6 Mon
 - 11/8 Wed 

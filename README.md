@@ -27,13 +27,14 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 	- Matt *
 - 10/30 Mon
 	- finish the CLT
-	- start the poisson distribution and the other discrete distribution
-	- some examples
+	- introduced the three distributions: chi-squared, t, and F.
 - 11/1 Wed 
 	- Quiz2
-	- Finish the poisson
-	- Start the distributions t, chi-squared, and F
+	- Examples on the three distributions
+	- start the poisson distribution and the other discrete distribution
+	- some examples
 - 11/3 Fri
+  	- Finish the poisson
 - 11/6 Mon
 - 11/8 Wed 
 	- Quiz3

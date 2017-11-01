@@ -22,7 +22,7 @@ find your name, answer the question in the header of the 2nd column, and type ye
   - Derive the expectation and variance of the distribution of the transformation, z = (x - mu)/sigma, where x ~ N(mu, sigma^2). What is the density function of the transformed variable Z?
 - Q4
   - the distribution of transformation:
-  1. If you have two random variables Z and V, what properties do these random variable have so that you can use them to construct a new variable, called T, which is T distributed? Write out the  formula of T, too.
+  1. If you have two random variables Z and V, what properties do these random variable have so that you can use them to construct a new variable, called T, which is t distributed? Write out the  construction formula of T as well (not the density function of T, which is too complicated for now).
 
 ### Part 2
 In you vt gmail account, go to the shared google sheet, find your name, answer the question in the header of the 2nd column, and type ____ in the column next to the name. Please just type the answer for yourself.

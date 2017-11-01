@@ -8,6 +8,7 @@ In you vt gmail account, go to the shared google sheet,
 find your name, answer the question in the header of the 2nd column, and type yes/no in the column next to the name. Please just type the answer for yourself.
 
 ## Quiz 2 on Nov 1
+[google timer](https://www.google.com/search?q=timer+google&oq=timer+google&aqs=chrome..69i57j0l5.2439j0j7&sourceid=chrome&ie=UTF-8)
 
 ### Part 1
 

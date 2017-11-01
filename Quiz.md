@@ -29,7 +29,7 @@ In you vt gmail account, go to the shared google sheet, find your name, answer t
 
 (link expired)
 
-### Feedback on Quiz 1
+### Feedback on Quiz 2
 
 The grading on the quiz 1 is really strict and hard, only 9 out of 36 was given the bonus. You will get the bonus credit 0.5 only if you:
 
@@ -38,7 +38,7 @@ The grading on the quiz 1 is really strict and hard, only 9 out of 36 was given 
 
 If you did not receive the bonus credit, probably because part of the answer was not correct. Please refer to the solutions in the folder Quiz_sols. Also we could talk about it after class. I made mistakes in posting grades before.
 
-However, as long as you signed the google sheet, you have other chances to earn the bonus credit 0.5. Do the Q2 and Q4, and turn in the paper after class before Nov 8. If you answered both Q2 and Q4 correctly, you will earn the bonus credit; if not, probably you have to give it one more try.
+However, as long as you signed the google sheet, you have other chances to earn the bonus credit 0.5. Do the Q2 and Q3, and turn in the paper after class before Nov 8. If you answered both Q2 and Q3 correctly, you will earn the bonus credit; if not, probably you have to give it one more try.
 
 
 ## Quiz 3 on Nov 8

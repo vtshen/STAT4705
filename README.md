@@ -31,11 +31,15 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 - 11/1 Wed 
 	- Quiz2
 	- Examples on the three distributions
-	- start the poisson distribution and the other discrete distribution
+	- theoretical example on the t distribution
+	- application of the t distribution
+	- start the geometric and poisson distribution and the other discrete distribution
 	- some examples
 - 11/3 Fri
   	- Finish the poisson
 - 11/6 Mon
+    - exponential distribution
+    - Distribution chart http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 - 11/8 Wed 
 	- Quiz3
 - 11/10 Fri 

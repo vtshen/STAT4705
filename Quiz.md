@@ -31,7 +31,7 @@ In you vt gmail account, go to the shared google sheet, find your name, answer t
 
 ### Feedback on Quiz 2
 
-The grading on the quiz 1 is really strict and hard, only 9 out of 36 was given the bonus. You will get the bonus credit 0.5 only if you:
+The grading on the quiz 2 is really strict and hard, only 9 out of 36 was given the bonus. You will get the bonus credit 0.5 only if you:
 
 - 1. signed the google sheet
 - 2. answered both questions correctly

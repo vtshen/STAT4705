@@ -51,6 +51,7 @@ However, as long as you signed the google sheet, you have other chances to earn 
   - the distribution of transformation:
   1. If you have two random variables U and V, what properties do these random variables have so that you can use them to construct a new variable, called F, which is F distributed? Write out the formula of F, too.
 - Q6
+  - Consider an experiment where the random variable X is the number of trials before the first success, what is the distribution of the random variable X? Write out the pmf of X. Is this distribution similar to the binomial distribution in terms of pmf? What is the similarity and what is the difference? 
 - Q7
 - Q8
 

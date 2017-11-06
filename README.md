@@ -41,6 +41,9 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
   - start the multinomial distribution 
 - 11/8 Wed
 	- Quiz3
+	- StudentsDiscussionHWs
+	  - https://docs.google.com/a/vt.edu/spreadsheets/d/1fBFgir_-TVG9KJ6wRnfvQagSOoyBq1fFHnWQAzpZotk/edit?usp=sharing
+	  - Bonus +0.25 for sharing the answer
 	- Start the exponential distribution
   - Post HW5, due 11/27
 - 11/10 Fri 
@@ -50,6 +53,7 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 	- Topics and Practice for Exam 2
 - 11/13 Mon
   - Finish  the gamma distribution
+  - Review HW3 and HW4
 	- Review for the practive exam and exam 2 
 - 11/15 Wed 
 	- Exam 2 in class, solution posted after class

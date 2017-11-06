@@ -64,8 +64,9 @@ In you vt gmail account, go to the shared google sheet, find your name, answer t
 
 https://docs.google.com/a/vt.edu/spreadsheets/d/1zl2lDulDDllFJyhnQ88o0wJ_Hkcam2YNu6pqcMqwRsM/edit?usp=sharing
 
-## Quiz 4
+## Quiz 4 On Nov 29 (Exam 2 On Nov 15 in Class)
 
-## Quiz 5
+## Quiz 5 On Dec 6
+
 
 

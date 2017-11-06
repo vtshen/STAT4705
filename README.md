@@ -45,6 +45,7 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 - 11/10 Fri 
   - finish the gamma distributions
   - Distribution chart http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
+	- google Distribution pillow
 	- Topics and Practice for Exam 2
 - 11/13 Mon
 	- Session Question and Answer

@@ -51,7 +51,7 @@ However, as long as you signed the google sheet, you have other chances to earn 
   - the distribution of transformation:
   1. If you have two random variables U and V, what properties do these random variables have so that you can use them to construct a new variable, called F, which is F distributed? Write out the formula of F, too. (not the density function of F, which is too complicated for now)
 - Q6
-  Consider an experiment where the random variable X is the number of trials before the first success, what is the distribution of the random variable X? Write out the pmf of X. Is this distribution similar to the binomial distribution in terms of pmf? What is the similarity and what is the difference? 
+  - Consider an experiment where the random variable X is the number of trials before the first success, what is the distribution of the random variable X? Write out the pmf of X. Is this distribution similar to the binomial distribution in terms of pmf? What is the similarity and what is the difference? 
 - Q7
   - Part 1. Suppose there are n random variables, x1, x2, ..., xn, which are i.i.d. poisson distrinution Po(\lambda). Then what is the distribution of the sum, x1 + x2 + x3 + ... + xn?
   - Part 2. Suppose # of births in a time period follows a poisson distribution with the rate parameter lambda. If we know in hospital A the birth rate is 2.3 in two-hours interval, then what is the birth rate in the thirty-minutes interval? 

@@ -41,9 +41,9 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
   - start the multinomial distribution 
 - 11/8 Wed
 	- Quiz3
-	- StudentsDiscussionHWs
+	- StudentsDiscussionHWs on 11/13 Monday
 	  - https://docs.google.com/a/vt.edu/spreadsheets/d/1fBFgir_-TVG9KJ6wRnfvQagSOoyBq1fFHnWQAzpZotk/edit?usp=sharing
-	  - Bonus +0.25 for sharing the answer
+	  - Bonus +0.25 for taking time to share your method how to solve the problem
 	- Start the exponential distribution
   - Post HW5, due 11/27
 - 11/10 Fri 
@@ -76,6 +76,14 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 	- Session Question and Answer
 - 12/16 Sat 
 	- Final 7:45 AM to 9:45 AM
+
+Grades: 
+
+- 6 HWs 20%
+- Exam1 25%
+- Exam2 25%
+- Final 30%
+- Extra Bonus (<5%)
 
 ### HW
 

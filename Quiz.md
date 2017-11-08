@@ -62,9 +62,29 @@ However, as long as you signed the google sheet, you have other chances to earn 
 ### Part 2
 In you vt gmail account, go to the shared google sheet, find your name, answer the question in the header of the 2nd column, and type ____ in the column next to the name. Please just type the answer for yourself.
 
-https://docs.google.com/a/vt.edu/spreadsheets/d/1zl2lDulDDllFJyhnQ88o0wJ_Hkcam2YNu6pqcMqwRsM/edit?usp=sharing
+(link expired)
+
+### Feedback on Quiz 3
+
+The grading on the quiz 3 is really strict and hard, only 9 out of 24 was given the bonus. You will get the bonus credit 0.5 only if you:
+
+- 1. signed the google sheet
+- 2. answered the question correctly
+
+If you did not receive the bonus credit, probably because some part of the answer was not correct. Please refer to the solutions in the folder Quiz_sols. Also we could talk about it after class. I made mistakes in posting grades before.
+
+However, as long as you signed the google sheet, you have other chances to earn the bonus credit 0.5. Do the Q6 and Q7, and turn in the paper after class before Nov 15. If you answered both Q6 and Q7 correctly, you will earn the bonus credit; if not, probably you have to give it one more try.
 
 ## Quiz 4 On Nov 29 (Exam 2 On Nov 15 in Class)
+
+### Part 1
+
+- Q9
+
+### Part 2
+In you vt gmail account, go to the shared google sheet, find your name, answer the question in the header of the 2nd column, and type ____ in the column next to the name. Please just type the answer for yourself.
+
+https://docs.google.com/a/vt.edu/spreadsheets/d/1i7bhqs6G0dhShHDppZ5_uhaOk5Tt8gQw4dKQGhDniDo/edit?usp=sharing
 
 ## Quiz 5 On Dec 6
 

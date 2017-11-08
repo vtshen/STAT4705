@@ -45,7 +45,7 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 	  - https://docs.google.com/a/vt.edu/spreadsheets/d/1fBFgir_-TVG9KJ6wRnfvQagSOoyBq1fFHnWQAzpZotk/edit?usp=sharing
 	  - Bonus +0.25 for taking time to share your method how to solve the problem
 	- Start the exponential distribution
-  - Post HW5, due 11/27
+  - Post HW5, due 11/29
 - 11/10 Fri 
   - Start the gamma distributions
   - Distribution chart http://www.math.wm.edu/~leemis/chart/UDR/UDR.html

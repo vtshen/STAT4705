@@ -45,7 +45,7 @@ However, as long as you signed the google sheet, you have other chances to earn 
 
 ### Part 1
 
-(8 choose 2)
+(8 choose 1)
 
 - Q5
   - the distribution of transformation:

@@ -77,9 +77,19 @@ However, as long as you signed the google sheet, you have other chances to earn 
 
 ## Quiz 4 On Nov 29 (Exam 2 On Nov 15 in Class)
 
+[google timer](https://www.google.com/search?q=timer+google&oq=timer+google&aqs=chrome..69i57j0l5.2439j0j7&sourceid=chrome&ie=UTF-8)
+
 ### Part 1
 
+(12 choose 1)
+
 - Q9
+
+- Q10
+
+- Q11
+
+- Q12
 
 ### Part 2
 In you vt gmail account, go to the shared google sheet, find your name, answer the question in the header of the 2nd column, and type ____ in the column next to the name. Please just type the answer for yourself.

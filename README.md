@@ -46,15 +46,17 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 	  - Bonus +0.25 for taking time to share your method how to solve the problem
 	- Start the exponential distribution
   - Post HW5, due 11/29
+  - students who answered questions:
+    - David Van Scoik
 - 11/10 Fri 
+  - Post the hw4 sol and the practice exam 2
+  - Finish the exponential example in slides
   - Start the gamma distributions
   - Distribution chart http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 	- google Distribution pillow
 	- Topics and Practice for Exam 2
 - 11/13 Mon
-  - Finish  the gamma distribution
-  - Review HW3 and HW4
-	- Review for the practive exam and exam 2 
+  - class cancelled
 - 11/15 Wed 
 	- Exam 2 in class, solution posted after class
 - 11/17 Fri
@@ -62,16 +64,21 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
   - Attendence is not required
 - 11/18 Thanksgiving Holiday begins
 - 11/27 Mon
+  - Descriptive Statistics
+  - Intro to Statistical Inference
+  - HW5 is now due 12/4
 - 11/29 Wed 
 	- Quiz4
+	- Return Exam 2
 	- Post HW6, due 12/8
 - 12/1 Fri
 - 12/4 Mon
+  - Post HW6, due 12/11
 - 12/6 Wed 
 	- Quiz5
 - 12/8 Fri 
 - 12/11 Mon 
-	- Special Topic
+	- Maybe Students' Presentation
 - 12/13 Wed 
 	- Session Question and Answer
 - 12/16 Sat 
@@ -92,9 +99,9 @@ Grades:
 - HW4
 	- Due 11/6
 - HW5
-	- Due 
+	- Due 12/4
 - HW6
-	- Due 12/8
+	- Due 12/11, was 12/8
 
 - Exam 2 
 	- 11/15 in class
@@ -124,10 +131,11 @@ TBD, maybe by appointment through sumin at vt dot edu
 - Continuous distribution
 - Comparison between the discrete and continuous distribution
 - Random Sampling
+- Elementary Statistical Inference
 
 If time:
 
-- simulation on sampling and distribution
+- Elementary simulation on sampling and distribution
 - one- and two-sample estimation problems
 	- probably taught in STAT 4706
 

@@ -81,15 +81,24 @@ However, as long as you signed the google sheet, you have other chances to earn 
 
 ### Part 1
 
-(12 choose 1)
+(9 choose 1)
 
 - Q9
 
-- Q10
+	- To see the spread and the median of data sets: 25,-10,1,2,3,4,5,6,7,8,9, please draw the (modified) boxplot (including outliers).
 
-- Q11
+Concepts maybe needed:
 
-- Q12
+- median, aka the second quantile: the middle of sorted numbers.
+- the first quantile Q1: The 25th percentile
+- the third quantile Q3: The 75th percentile
+- IQR: The interquartile range (IQR) is the difference between the first and third quartiles.
+- the lower fence: Q1 - 1.5(IQR)
+- the upper fence: Q3 + 1.5(IQR)
+- Suspected outliers: either 1.5×IQR or more above the third quartile or 1.5×IQR or more below the first quartile.
+- outliers: either 3×IQR or more above the third quartile or 3×IQR or more below the first quartile.
+
+Note: the whiskers extend to the most extreme data point which is no more than 1.5 times the interquartile range from the box. 
 
 ### Part 2
 In you vt gmail account, go to the shared google sheet, find your name, answer the question in the header of the 2nd column, and type ____ in the column next to the name. Please just type the answer for yourself.

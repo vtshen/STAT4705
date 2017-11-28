@@ -70,7 +70,7 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 - 11/29 Wed 
 	- Quiz4
 	- Return Exam 2
-	- Post HW6, due 12/8
+	- 
 - 12/1 Fri
 - 12/4 Mon
   - Post HW6, due 12/11

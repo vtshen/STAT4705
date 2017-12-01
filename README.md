@@ -75,11 +75,12 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
   - sampling distribution of proportions, sample variance
   - t distribution
   - Post HW6, due 12/11
-  - Another extra credit: 
+  - Another extra credit (1 - 3 pts): 
     - group study (1 - 3 people)
     - pick and read one chapter (1 - 22) E.T. Jaynes, Probability Theory, The Logic of Science
-    - 10 - 15 mins presentations in class
+    - 10 to 15 mins presentations in class
     - book link: http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf
+    - sign up link: https://docs.google.com/a/vt.edu/spreadsheets/d/1Wj5DzjD2nUUJT5PLsd1TUBAWfSzRYZ_SP_Mg9G_BsOc/edit?usp=sharing
 - 12/4 Mon
   - 
 - 12/6 Wed 

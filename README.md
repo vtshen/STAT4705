@@ -70,10 +70,18 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
 - 11/29 Wed 
 	- Quiz4
 	- Return Exam 2
-	- 
+	- Sampling distribution of difference in mean
 - 12/1 Fri
-- 12/4 Mon
+  - sampling distribution of proportions, sample variance
+  - t distribution
   - Post HW6, due 12/11
+  - Another extra credit: 
+    - group study (1 - 3 people)
+    - pick and read one chapter (1 - 22) E.T. Jaynes, Probability Theory, The Logic of Science
+    - 10 - 15 mins presentations in class
+    - book link: http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf
+- 12/4 Mon
+  - 
 - 12/6 Wed 
 	- Quiz5
 - 12/8 Fri 

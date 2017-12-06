@@ -79,17 +79,34 @@ MWF 8:00 AM - 8:50 AM in SEITZ 300
     - group study (1 - 3 people)
     - pick and read one chapter (1 - 22) E.T. Jaynes, Probability Theory, The Logic of Science
     - 10 to 15 mins presentations in class
+	- time: probably 12/11 Monday (depending the status of signup)
     - book link: http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf
     - sign up link: https://docs.google.com/a/vt.edu/spreadsheets/d/1Wj5DzjD2nUUJT5PLsd1TUBAWfSzRYZ_SP_Mg9G_BsOc/edit?usp=sharing
+
+
 - 12/4 Mon
+  - finish t-distribution, F-distribution
+  - example how to calculate Confidence Interval
   - 
 - 12/6 Wed 
 	- Quiz5
+	- Final topics are posted in canvas
+	- There will be practice exam available in the canvas
+	- Extra credit document
+	- One sided CI
+	- example of bias, efficiency of estimator
+
 - 12/8 Fri 
+  - question and answer session
+  - attendence is not required
 - 12/11 Mon 
 	- Maybe Students' Presentation
-- 12/13 Wed 
 	- Session Question and Answer
+	- attendence is not required
+- 12/13 Wed 
+  - Maybe Students' Presentation
+	- Session Question and Answer
+	- attendence is not required
 - 12/16 Sat 
 	- Final 7:45 AM to 9:45 AM
 

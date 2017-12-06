@@ -107,5 +107,7 @@ https://docs.google.com/a/vt.edu/spreadsheets/d/1i7bhqs6G0dhShHDppZ5_uhaOk5Tt8gQ
 
 ## Quiz 5 On Dec 6
 
+In you vt gmail account, go to the shared google sheet, find your name, answer the question in the header of the 2nd column, and type **confidence** in the column next to the name. Please just type the answer for yourself.
 
+https://docs.google.com/a/vt.edu/spreadsheets/d/1MWNxtP0VcBBae_IbJVXhK-lWTySOSZ8K7ilEMsdxrYk/edit?usp=sharing
 
